@@ -1,0 +1,15 @@
+torch
+torchvision
+numpy
+tqdm
+tensorboard
+tensorboardX
+ml-collections
+medpy
+SimpleITK
+scipy
+h5py
+einops
+timm
+opencv_python==3.4.5.20
+yacs
